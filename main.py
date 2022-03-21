@@ -12,7 +12,7 @@ def linear_search(arr, k):
     length = len(arr)
     for i in range(0, length - 1, 1):
 
-        print("wwwwwwwwwwwwwwwwwwwwww")
+        
         if k == arr[i]:
             flag = 1
             print(c)
